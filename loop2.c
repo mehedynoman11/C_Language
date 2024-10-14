@@ -11,7 +11,7 @@ int main() {
     for (i=1;i<=n;i++) {
         sum+=i;
     }
-    printf("%d", sum);
+    printf("Total sum is: %d", sum);
 
     return 0;
 }
